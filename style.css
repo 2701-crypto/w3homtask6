@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 1550px;
+    height: 100px;
+    background-color: red;
+    max-width: 1550px;
+    
+    
+}
+.box img{
+    position: relative;
+    top: 20px;
+    left: 150px;
+}
+.box p{
+    display: inline;
+    position: relative;
+    left: 600px;
+    top: 15px;
+    color: white;
+    font-size: 20px;
+}
+.box i{
+    position: relative;
+    left: 700px;
+    top: 19px;
+    color: red;
+    background-color: white;
+    border-radius: 40px;
+    font-size: 50px;
+}
+.box2 p{
+    width: 15px;
+    height: 10px;
+    position: relative;
+    background-color: black;
+    border-radius: 50px;    
+    color: white;
+    left: 1300px;
+    top: -120px;
+}
+.box2 img{
+    position: relative;
+    left: 450px;
+    top: -85px;
+}
+.box3{
+    width: 1550px;
+    height: 85vh;
+    background-color: red;
+}
+.box3 h1{
+    color: white;
+    font-size: 50px;
+    position: relative;
+    left: 150px;
+    top: -300px;
+}
+.box3 h5{
+    position: relative;
+    left: 150px;
+    top: -280px;
+    color: white;
+}
+.box3 button{
+    position: relative;
+    left: 150px;
+    top: -730px;
+    font-size: 30px;
+    background-color: red;
+    border: 5px solid white;
+    border-radius: 30px;
+    color: white;
+    padding: 10px;
+    width: 310px;
+}
+.box3 .qwe1{
+    position: relative;
+    left: 800px;
+    top: -850px;
+}
+.box3 .qwe2{
+    position: relative;
+    left: 210px;
+    top: -620px;
+}
+.box3 .qwe3{
+    position: relative;
+    left: -160px;
+    top: -580px;
+}
+.box3 .qwe4{
+    position: relative;
+    left: 1000px;
+    top: -880px;
+}
+body{
+    background-color: blue;
+}
+.box3 .qwe5{
+    position: relative;
+    top:-990px;
+    left: -90px;
+ }
+ .box3 .qwe6{
+    position: relative;
+    top:-820px;
+    left: -360px;
+ }
+ 
+
+
