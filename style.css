@@ -380,6 +380,10 @@ input {
     font-size: 9px;
     color: #b9bbc0;
 }
+.end{
+    background-image: url(image\ 32.png);
+    background-repeat: no-repeat;
+}
 
 
  
