@@ -97,9 +97,6 @@
     left: 1000px;
     top: -880px;
 }
-body{
-    background-color: blue;
-}
 .box3 .qwe5{
     position: relative;
     top:-990px;
@@ -110,6 +107,280 @@ body{
     top:-820px;
     left: -360px;
  }
+ .box4{
+    width: 1512px;
+    height: 200px;
+    background-color: white;
+  
+ }
  
+ .box4 .qwe8{
+    position: relative;
+    left: 80px;
+    top: -15px;
+ }
+ .box4 {
+    width: 1200px;
+    margin: auto;       
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+ .box5 {
+    width: 1512px;
+    height: 671px;
+    max-width: 1512px;
+    margin: auto;
+    background-image: url(./image\ 31.png);
+    background-repeat: no-repeat;
+    background-color: #F8E7DD;
+}
 
+.qwe21 {
+    width: 1200px;
+    height: 450px;
+    max-width: 1200px;
+    margin: auto;
+    padding-top: 108px;
+
+}
+
+.qwe22 {
+    height: 189px;
+    display: flex;
+    justify-content: space-between;
+}
+.qwe23
+{
+    background-color: #FFFFFF;
+    height: 145px;
+    width: 333px;
+    border-radius: 12px;
+    padding: 22px;
+
+}
+.qwe24
+{
+    display: flex;
+}
+.qwe25
+{
+    width: 127px;
+height: 58px;
+font-family: Inter;
+font-weight: 800;
+font-style: Extra Bold;
+font-size: 20px;
+
+}
+.qwe26
+{
+    color: #868686;
+    width: 110px;
+height: 17px;
+font-family: Inter;
+font-weight: 500;
+font-style: Medium;
+font-size: 14px;
+
+}
+.qwe27
+{
+    width: 125px;
+height: 36px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+font-family: Inter;
+font-weight: 700;
+font-style: Bold;
+font-size: 16px;
+color: #FFFFFF;
+background-color: #F73D27;
+border-radius: 18px;
+outline: none;
+border: none;
+margin-top: 20px;
+}
+.qwe28
+{
+    position: relative;
+}
+.qwe29{
+    position: relative;
+    left: 50px;
+}
+.c31{
+    position: relative;
+    top: -170px;
+    left: 25px;
+}
+.c32{
+    position: relative;
+    top: -320px;
+    left: 150px;
+}
+.box6{
+     height: 189px;
+    display: flex;
+    justify-content: space-between;
+}
+.qwe30{
+    height: 145px;
+    width: 450px;
+    border-radius: 12px;
+    padding: 22px;
+    position: relative;
+    left: -30px;
+}
+.box7{
+    width: 1512px;
+    height: 326px;
+    background-color: #FFB737;
+}
+.qwe31{
+    position: relative;
+    width: 247;
+    height: 495;
+    top: -100px;
+    left: 250px;
+
+}
+.qwe32{
+    position: relative;
+    top: -80px;
+    left: -150px;
+
+}
+.qwe35{
+    position: relative;
+    left: 611px;
+    top: -450px;
+    color: white;
+    font-size: 50px;
+}
+.qwe33{
+    position: relative;
+     left: 611px;
+    top: -430px; 
+
+}
+.qwe34{
+    position: relative;
+     left: 630px;
+    top: -430px; 
+
+}
+.box8{
+width: 1512px;
+height: 700px;
+background-color: #F8E7DD;
+}
+.qwe36{
+    position: relative;
+    left: 150px;
+    top: 100px;
+    font-size: 50px;
+}
+.qwe37{
+    position: relative;
+    left: 150px;
+    top: 100px;
+}
+.qwe38{
+    position: relative;
+    left: 550px;
+    top: -70px;
+
+}
+.qwe39{
+    position: relative;
+    left: 10px;
+    top: 100px;
+}
+.qwe40{
+    position: relative;
+    left: 10px;
+    top: 110px;
+}
+header {
+    height: 67px;
+    background: #f51f2b;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+.logo {
+    width: 80px;
+}
+.social {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+.social img {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+}
+footer {
+    min-height: 259px;
+    background: #202328;
+    padding: 35px 9% 15px;
+    position: relative;
+    overflow: hidden;
+}
+.columns {
+    display: flex;
+    gap: 50px;
+    position: relative;
+    z-index: 2;
+}
+.columns div {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+h3 {
+    font-size: 13px;
+    font-weight: normal;
+    margin: 0 0 5px;
+}
+a {
+    color: #b9bbc0;
+    text-decoration: none;
+    font-size: 10px;
+}
+input {
+    width: 160px;
+    padding: 8px;
+    background: #4b4e54;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 10px;
+}
+.watermark {
+    position: absolute;
+    width: 290px;
+    right: -10px;
+    top: 10px;
+    opacity: 0.15;
+}
+.bottom {
+    position: absolute;
+    bottom: 12px;
+    left: 9%;
+    right: 9%;
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    font-size: 9px;
+    color: #b9bbc0;
+}
+
+
+ 
 
